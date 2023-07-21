@@ -20,9 +20,9 @@ The implementation of the BucketStack data structure is provided in the followin
 ## Execution
 
 - Compile the code using the provided Makefile by executing the following command in the terminal:
-s`make`
+`make`
 
-- Once the compilation is successful, you can execute the bucketstack program by running the following command: 
+- Once the compilation is successful, you can execute the bucketstack program by running the following command:
 `./bucketstack`
 
 
